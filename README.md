@@ -15,7 +15,7 @@ Allow users to add new tasks with titles.
 Optional: Provide a field for task descriptions.
 Optional: Include a feature to set task priorities (e.g., high, medium, low).
 Optional: Add a feature to set due dates for tasks.
-Task Editing:
+Task Editing:.
 
 Enable users to edit task titles.
 Allow users to edit task descriptions.
