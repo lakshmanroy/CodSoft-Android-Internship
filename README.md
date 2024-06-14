@@ -1,4 +1,4 @@
-# CodeSoftAndroidInternship2024
+# CodSoft-Android-Internship
 
 📝 To-Do List App Requirements
 📹 Video Demo
