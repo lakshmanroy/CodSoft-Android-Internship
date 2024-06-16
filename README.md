@@ -36,7 +36,7 @@ Ensure that tasks remain saved even when the app is closed or the device is rest
 🎨 User Interface:
 Design an intuitive and user-friendly interface.
 Use clear and distinct colors for different task statuses:
-Active Tasks: Green or Blue
+Active Tasks: Green or Blue.
 Completed Tasks: Gray or Strikethrough
 High Priority: Red
 Medium Priority: Orange
