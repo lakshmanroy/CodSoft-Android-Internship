@@ -20,7 +20,7 @@ Task Editing:.
 Enable users to edit task titles.
 Allow users to edit task descriptions.
 Provide an option to change task priorities.
-Allow users to modify due dates.
+Allow users to modify due dates..
 Task Completion:
 
 Allow users to mark tasks as completed or active.
