@@ -18,7 +18,7 @@ Optional: Add a feature to set due dates for tasks.
 Task Editing:.
 
 Enable users to edit task titles.
-Allow users to edit task descriptions.
+Allow users to edit task descriptions..
 Provide an option to change task priorities.
 Allow users to modify due dates..
 Task Completion:
