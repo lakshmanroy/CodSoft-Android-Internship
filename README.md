@@ -29,7 +29,7 @@ Task Deletion:
 
 Add the option to delete tasks from the list..
 Confirm deletion with the user before removing a task.
-Local Data Storage:
+Local Data Storage:.
 
 Save tasks locally on the device for data persistence.
 Ensure that tasks remain saved even when the app is closed or the device is restarted.
