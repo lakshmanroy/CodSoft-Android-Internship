@@ -42,5 +42,5 @@ High Priority: Red
 Medium Priority: Orange
 Low Priority: Yellow
 Provide easily accessible buttons for adding, editing, and deleting tasks.
-Ensure a responsive layout that works well on different screen sizes.
+Ensure a responsive layout that works well on different screen sizes..
  
