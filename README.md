@@ -8,7 +8,7 @@ Submit the URL of the uploaded video.
 Home Screen:
 
 Display a list of tasks with titles and completion status..
-Use checkboxes or icons to indicate whether a task is completed..
+Use checkboxes or icons to indicate whether a task is completed.
 Task Creation:
 
 Allow users to add new tasks with titles..
