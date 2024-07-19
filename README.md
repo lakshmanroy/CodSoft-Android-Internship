@@ -7,7 +7,7 @@ Submit the URL of the uploaded video.
 🚀 Features to Implement
 Home Screen:
 
-Display a list of tasks with titles and completion status..
+Display a list of tasks with titles and completion status.
 Use checkboxes or icons to indicate whether a task is completed.
 Task Creation:
 
