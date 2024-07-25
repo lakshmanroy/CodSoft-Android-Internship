@@ -39,7 +39,7 @@ Use clear and distinct colors for different task statuses:
 Active Tasks: Green or Blue.
 Completed Tasks: Gray or Strikethrough
 High Priority: Red.
-Medium Priority: Orange
+Medium Priority: Orange.
 Low Priority: Yellow.
 Provide easily accessible buttons for adding, editing, and deleting tasks.
 Ensure a responsive layout that works well on different screen sizes.
