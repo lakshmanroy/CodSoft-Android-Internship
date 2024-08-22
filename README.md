@@ -27,7 +27,7 @@ Allow users to mark tasks as completed or active.
 Update the UI to reflect the completion status (e.g., strikethrough text for completed tasks).
 Task Deletion:
 
-Add the option to delete tasks from the list.
+Add the option to delete tasks from the list..
 Confirm deletion with the user before removing a task.
 Local Data Storage:.
 
