@@ -11,7 +11,7 @@ Display a list of tasks with titles and completion status.
 Use checkboxes or icons to indicate whether a task is completed.
 Task Creation:
 
-Allow users to add new tasks with titles..
+Allow users to add new tasks with titles.
 Optional: Provide a field for task descriptions.
 Optional: Include a feature to set task priorities (e.g, high, medium, low).
 Optional: Add a feature to set due dates for tasks.
