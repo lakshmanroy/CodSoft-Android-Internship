@@ -20,7 +20,7 @@ Task Editing:.
 Enable users to edit task titles.
 Allow users to edit task descriptions.
 Provide an option to change task priorities.
-Allow users to modify due dates..
+Allow users to modify due dates.
 Task Completion:
 
 Allow users to mark tasks as completed or active.
@@ -38,7 +38,7 @@ Design an intuitive and user-friendly interface.
 Use clear and distinct colors for different task statuses:
 Active Tasks: Green or Blue.
 Completed Tasks: Gray or Strikethrough
-High Priority: Red..
+High Priority: Red.
 Medium Priority: Orange.
 Low Priority: Yellow.
 Provide easily accessible buttons for adding, editing, and deleting tasks.
