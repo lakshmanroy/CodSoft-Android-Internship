@@ -4,7 +4,7 @@
 📹 Video Demo
 Upload a video demo of your application on YouTube.
 Submit the URL of the uploaded video.
-🚀 Features to Implement
+🚀 Features to Implement.
 Home Screen:
 
 Display a list of tasks with titles and completion status.
